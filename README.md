@@ -1,1 +1,2 @@
-# IMDb_Movie_Analysis_using_SQL
+# sql project This is my first sql based project
+
